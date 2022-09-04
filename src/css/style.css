@@ -476,6 +476,11 @@ section {
         z-index: 1;
     }
 
+    .star-container p,
+    .description {
+        font-size: 15px;
+    }
+
     .signup-mobile,
     .burger-container {
         display: block;
